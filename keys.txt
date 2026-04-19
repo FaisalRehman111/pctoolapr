@@ -7,3 +7,8 @@
 {"k":"8B70FE674577D345763DABD7","s":"7ea4f97cb61c6ce9c5a935fea7dfebdf8d28e41c0e4bfe991072b4213b4ddedb","e":"2026-04-26","b":0,"n":"alibas","l":0,"m":0,"dv":1}
 {"k":"82E6D105EB9B893EC77A1C3B","s":"44be44f60d8ca096ce0014cf05c0e7c4a27dfe9623ab754370c15cff46422ea4","e":"2026-04-26","b":0,"n":"alibas","l":0,"m":0,"dv":1}
 {"k":"CD82DB7C7435371D0445B86D","s":"69fad4427d7c55cd8abc668376ba2dccaa89819c7e08035fb9582d357d74b192","e":"2026-04-26","b":0,"n":"alibas","l":0,"m":0,"dv":1}
+master 
+{"k":"3B02046FCA45AA8B3DFE8794","s":"995c280a01d20125a11facc557fd05dc3ea208b2e569a0cca5997f422518bc0c","e":"9999-12-31","b":0,"n":"master","l":1,"m":1,"dv":0}
+{"k":"3664446E00480AE8F5E5FA35","s":"fc206aba71ad74665cab6716ae005c97febf7789c6dac3d26d2c915d310f3b18","e":"9999-12-31","b":0,"n":"master","l":1,"m":1,"dv":0}
+{"k":"3293195C0CB19E4C103F7CE1","s":"5c60d8a646884f9d241dad1e9a7d5873b6147e1dc344c986d4662b57d5e41888","e":"9999-12-31","b":0,"n":"master","l":1,"m":1,"dv":0}
+{"k":"DE06CEE3536502D373EFB94F","s":"b4bbdb489c379546c70f33e577b3afc08deadf88db7e63f1b73cf880f04307b7","e":"9999-12-31","b":0,"n":"master","l":1,"m":1,"dv":0}
